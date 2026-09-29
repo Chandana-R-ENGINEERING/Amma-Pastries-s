@@ -1,0 +1,39 @@
+[
+  {
+    "id": "APK-ORD-8819",
+    "userId": null,
+    "orderType": "Celebration Order",
+    "customer": {
+      "name": "Karthik Nair",
+      "email": "karthik.nair@bengaluru.in",
+      "phone": "+91 97412 88990",
+      "notes": "For office celebration"
+    },
+    "items": [
+      {
+        "productId": "prod-2",
+        "name": "Pure Chocolate Truffle Cake",
+        "size": "2 kg",
+        "price": 1950,
+        "quantity": 1,
+        "isEggless": false,
+        "messageOnCake": "Congratulations Team Apex!"
+      },
+      {
+        "productId": "prod-23",
+        "name": "Crispy Veg Puff",
+        "size": "Pack of 4",
+        "price": 130,
+        "quantity": 3,
+        "isEggless": true,
+        "messageOnCake": ""
+      }
+    ],
+    "pickupDate": "2026-09-29",
+    "pickupTime": "11:00 AM – 1:00 PM",
+    "totalAmount": 2340,
+    "status": "Confirmed",
+    "createdAt": "2026-09-27T07:45:00.000Z",
+    "adminNotes": "Advance confirmed via call."
+  }
+]

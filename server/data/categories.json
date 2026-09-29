@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cakes",
+    "name": "Cakes",
+    "description": "Signature whole cakes crafted fresh for birthdays, anniversaries and gatherings",
+    "icon": "Cake"
+  },
+  {
+    "id": "pastries",
+    "name": "Pastries",
+    "description": "Indulgent individual pastry slices and mousse cups for daily cravings",
+    "icon": "Coffee"
+  },
+  {
+    "id": "special_cakes",
+    "name": "Special Cakes",
+    "description": "Cute Bento celebration boxes, designer tiered cakes, and layered jar cakes",
+    "icon": "Sparkles"
+  },
+  {
+    "id": "desserts",
+    "name": "Desserts",
+    "description": "Artisanal brownies, delicate French macarons, and choux pastries",
+    "icon": "Heart"
+  },
+  {
+    "id": "snacks",
+    "name": "Snacks",
+    "description": "Flaky golden bakery puffs, savory rolls, and tea-time crunchies",
+    "icon": "UtensilsCrossed"
+  },
+  {
+    "id": "baked_goods",
+    "name": "Baked Goods",
+    "description": "Heritage plum cakes, dates & carrot loaves, artisanal milk bread and cookies",
+    "icon": "Cookie"
+  }
+]

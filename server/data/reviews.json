@@ -1,0 +1,29 @@
+[
+  {
+    "id": "rev-1",
+    "name": "Ananya Rao",
+    "rating": 5,
+    "date": "September 2026",
+    "source": "Google Maps Verified Review",
+    "comment": "Ordered the Black Forest and Choco Truffle cake for my daughter's birthday. It was exceptionally fresh, not overly sweet, and the cream was so airy and light. Everyone in the party loved it!",
+    "isVerified": true
+  },
+  {
+    "id": "rev-2",
+    "name": "Suresh Venkatesh",
+    "rating": 5,
+    "date": "August 2026",
+    "source": "Google Maps Verified Review",
+    "comment": "Amma Pastries has been our go-to bakery in Bengaluru for celebration cakes. The eggless butterscotch cake and fresh hot veg puffs are unbeatable. Reliable pickup and friendly staff.",
+    "isVerified": true
+  },
+  {
+    "id": "rev-3",
+    "name": "Meera Krishnan",
+    "rating": 5,
+    "date": "August 2026",
+    "source": "Google Maps Verified Review",
+    "comment": "Got a custom engagement cake made here with flower decor. They replicated our reference photo accurately and delivered exactly on time. Extremely polite team and great pricing.",
+    "isVerified": true
+  }
+]

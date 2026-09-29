@@ -1,0 +1,65 @@
+[
+  {
+    "id": "gal-1",
+    "title": "Two-Tier Floral Wedding Celebration Cake",
+    "category": "Custom Cakes",
+    "image": "https://images.unsplash.com/photo-1535254973040-607b474cb50d?auto=format&fit=crop&w=900&q=80",
+    "description": "Hand-piped buttercream flowers with delicate gold leaf accents"
+  },
+  {
+    "id": "gal-2",
+    "title": "Signature Belgian Chocolate Truffle Cake",
+    "category": "Cakes",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=900&q=80",
+    "description": "Glazed with pure dark couverture ganache"
+  },
+  {
+    "id": "gal-3",
+    "title": "Korean Style Bento Birthday Cakes",
+    "category": "Celebrations",
+    "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?auto=format&fit=crop&w=900&q=80",
+    "description": "Pastel vintage piping for personal celebration moments"
+  },
+  {
+    "id": "gal-4",
+    "title": "Fresh Strawberry & Berry Charlotte",
+    "category": "Cakes",
+    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=900&q=80",
+    "description": "Seasonal Karnataka strawberries and fresh vanilla whip"
+  },
+  {
+    "id": "gal-5",
+    "title": "Assorted French Macarons & Pastries Display",
+    "category": "Pastries",
+    "image": "https://images.unsplash.com/photo-1558961363-fa8fdf82db35?auto=format&fit=crop&w=900&q=80",
+    "description": "Crisp almond shells with velvety ganache centers"
+  },
+  {
+    "id": "gal-6",
+    "title": "Fresh Morning Bake from Our Bengaluru Oven",
+    "category": "Bakery",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=900&q=80",
+    "description": "Golden loaves, artisan puffs and hot bakery specials"
+  },
+  {
+    "id": "gal-7",
+    "title": "Amma Pastries Counter & Warm Bakery Storefront",
+    "category": "Store",
+    "image": "https://images.unsplash.com/photo-1517433670267-08bbd4be890f?auto=format&fit=crop&w=900&q=80",
+    "description": "Inviting ambience, fresh aroma, and warm hospitality"
+  },
+  {
+    "id": "gal-8",
+    "title": "Dark Chocolate Fudge Pastry & Mousse Cups",
+    "category": "Pastries",
+    "image": "https://images.unsplash.com/photo-1579372786545-d24232daf58c?auto=format&fit=crop&w=900&q=80",
+    "description": "Rich cocoa layers made for everyday dessert cravings"
+  },
+  {
+    "id": "gal-9",
+    "title": "Royal Red Velvet Celebration Heart",
+    "category": "Custom Cakes",
+    "image": "https://images.unsplash.com/photo-1603532648955-039310d9ed75?auto=format&fit=crop&w=900&q=80",
+    "description": "Crafted with love for anniversaries and romantic milestones"
+  }
+]

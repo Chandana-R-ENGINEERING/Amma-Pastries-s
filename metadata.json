@@ -1,0 +1,6 @@
+{
+  "name": "Amma Pastries Karnataka",
+  "description": "Amma Pastries Karnataka – Premium Bengaluru bakery specializing in fresh celebration cakes, pastries, custom cakes, and artisanal baked treats.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

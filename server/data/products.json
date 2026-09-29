@@ -1,0 +1,464 @@
+[
+  {
+    "id": "prod-1",
+    "name": "Classic Black Forest Cake",
+    "category": "cakes",
+    "description": "Amma Pastries signature moist dark cocoa sponge layered with fresh whipped vanilla cream, infused sour cherries, and crowned with Belgian dark chocolate shavings.",
+    "image": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "0.5 kg", "price": 450 },
+      { "size": "1 kg", "price": 850 },
+      { "size": "1.5 kg", "price": 1250 },
+      { "size": "2 kg", "price": 1650 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": true,
+    "rating": 4.9,
+    "reviewCount": 184
+  },
+  {
+    "id": "prod-2",
+    "name": "Pure Chocolate Truffle Cake",
+    "category": "cakes",
+    "description": "Dense, melt-in-the-mouth dark chocolate sponge generously smothered with rich silky chocolate ganache truffle glaze. A Bengaluru celebration favorite.",
+    "image": "https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "0.5 kg", "price": 550 },
+      { "size": "1 kg", "price": 1000 },
+      { "size": "1.5 kg", "price": 1500 },
+      { "size": "2 kg", "price": 1950 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": true,
+    "rating": 4.9,
+    "reviewCount": 215
+  },
+  {
+    "id": "prod-3",
+    "name": "Butterscotch Bliss Cake",
+    "category": "cakes",
+    "description": "Golden moist sponge layered with hand-caramelized butterscotch cream and loaded with crunchy cashew nut praline for an irresistible crunch.",
+    "image": "/butterscotch-bliss-cake.jpg",
+    "sizes": [
+      { "size": "0.5 kg", "price": 480 },
+      { "size": "1 kg", "price": 900 },
+      { "size": "1.5 kg", "price": 1350 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": true,
+    "rating": 4.8,
+    "reviewCount": 142
+  },
+  {
+    "id": "prod-4",
+    "name": "Royal Red Velvet Cake",
+    "category": "cakes",
+    "description": "Velvety crimson sponge with a subtle cocoa hint, paired harmoniously with smooth Philadelphia-style cream cheese frosting and fine velvet crumb dusting.",
+    "image": "https://images.unsplash.com/photo-1586788680434-30d324b2d46f?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "0.5 kg", "price": 550 },
+      { "size": "1 kg", "price": 1050 },
+      { "size": "1.5 kg", "price": 1550 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": true,
+    "rating": 4.9,
+    "reviewCount": 168
+  },
+  {
+    "id": "prod-5",
+    "name": "Blueberry Cheesecake",
+    "category": "cakes",
+    "description": "New York style velvety baked cream cheese rested on a buttery graham crust, topped generously with handcrafted wild blueberry compote.",
+    "image": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "0.5 kg", "price": 650 },
+      { "size": "1 kg", "price": 1200 },
+      { "size": "1.5 kg", "price": 1750 }
+    ],
+    "isVeg": true,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": true,
+    "rating": 5.0,
+    "reviewCount": 98
+  },
+  {
+    "id": "prod-6",
+    "name": "Fresh Fruit Forest Cake",
+    "category": "cakes",
+    "description": "Light vanilla chiffon sponge filled with light cream and a harvest of seasonal fresh kiwis, pineapple, pomegranate pearls and sweet grapes.",
+    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "0.5 kg", "price": 520 },
+      { "size": "1 kg", "price": 980 },
+      { "size": "1.5 kg", "price": 1450 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.7,
+    "reviewCount": 84
+  },
+  {
+    "id": "prod-7",
+    "name": "White Forest Cherry Cake",
+    "category": "cakes",
+    "description": "Tender vanilla sponge, silky vanilla cream, imported sour cherries, and generous curls of pure white Belgian chocolate.",
+    "image": "https://images.unsplash.com/photo-1542826438-bd32f43d626f?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "0.5 kg", "price": 460 },
+      { "size": "1 kg", "price": 880 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.8,
+    "reviewCount": 76
+  },
+  {
+    "id": "prod-8",
+    "name": "Tropical Pineapple Sunshine Cake",
+    "category": "cakes",
+    "description": "Refreshing and moist vanilla sponge layered with freshly stewed pineapple slices and airy dairy whipped cream.",
+    "image": "https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "0.5 kg", "price": 440 },
+      { "size": "1 kg", "price": 820 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.7,
+    "reviewCount": 110
+  },
+  {
+    "id": "prod-9",
+    "name": "Almond Vanilla Crunch Cake",
+    "category": "cakes",
+    "description": "Soft French vanilla sponge finished with roasted Californian almond flakes and light honey drizzle.",
+    "image": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "0.5 kg", "price": 500 },
+      { "size": "1 kg", "price": 950 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.8,
+    "reviewCount": 63
+  },
+  {
+    "id": "prod-10",
+    "name": "Black Forest Pastry Slice",
+    "category": "pastries",
+    "description": "Single-serve classic Black Forest slice with luscious dark chocolate flakes and juicy cherry filling.",
+    "image": "https://images.unsplash.com/photo-1571115177098-24ec42ed204d?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "1 pc", "price": 80 },
+      { "size": "Pack of 2", "price": 150 },
+      { "size": "Pack of 4", "price": 290 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": true,
+    "rating": 4.9,
+    "reviewCount": 320
+  },
+  {
+    "id": "prod-11",
+    "name": "Choco Butterscotch Pastry",
+    "category": "pastries",
+    "description": "Two favorites united: layered chocolate sponge with buttery caramel crunch and smooth praline cream.",
+    "image": "https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "1 pc", "price": 90 },
+      { "size": "Pack of 2", "price": 170 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.8,
+    "reviewCount": 190
+  },
+  {
+    "id": "prod-12",
+    "name": "Red Velvet Pastry Slice",
+    "category": "pastries",
+    "description": "Single portion of rich red velvet sponge layered with creamy cheese mousse.",
+    "image": "https://images.unsplash.com/photo-1616031037011-087000171abe?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "1 pc", "price": 95 },
+      { "size": "Pack of 2", "price": 180 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.8,
+    "reviewCount": 145
+  },
+  {
+    "id": "prod-13",
+    "name": "Choco Mousse Pastry",
+    "category": "pastries",
+    "description": "Airy, cloud-like dark chocolate mousse layered atop a delicate fudge cake foundation.",
+    "image": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "1 pc", "price": 90 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.7,
+    "reviewCount": 112
+  },
+  {
+    "id": "prod-14",
+    "name": "Russian Honey Pastry",
+    "category": "pastries",
+    "description": "Authentic Medovik style multi-layered golden honey biscuit cake with tangy sour-cream filling.",
+    "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "1 pc", "price": 110 }
+    ],
+    "isVeg": true,
+    "isEgglessAvailable": false,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.9,
+    "reviewCount": 88
+  },
+  {
+    "id": "prod-15",
+    "name": "Chocolate Heart Bento Cake",
+    "category": "special_cakes",
+    "description": "Adorable 200g mini celebration cake in an eco-friendly bento takeout box. Perfect for two people or thoughtful surprises.",
+    "image": "https://images.unsplash.com/photo-1588195538326-c5b1e9f80a1b?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "200g Bento", "price": 250 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": true,
+    "rating": 4.9,
+    "reviewCount": 210
+  },
+  {
+    "id": "prod-16",
+    "name": "Choco Truffle Bento Cake",
+    "category": "special_cakes",
+    "description": "Indulgent 200g mini chocolate truffle cake with custom piping on request in a signature Korean bento box.",
+    "image": "https://images.unsplash.com/photo-1562440499-64c9a111f713?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "200g Bento", "price": 260 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.8,
+    "reviewCount": 175
+  },
+  {
+    "id": "prod-17",
+    "name": "Red Velvet Bento Cake",
+    "category": "special_cakes",
+    "description": "Chic 200g red velvet bento cake finished with vintage piped borders and heartfelt celebration greetings.",
+    "image": "https://images.unsplash.com/photo-1603532648955-039310d9ed75?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "200g Bento", "price": 260 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.9,
+    "reviewCount": 130
+  },
+  {
+    "id": "prod-18",
+    "name": "Chocolate Fudge Jar Cake",
+    "category": "special_cakes",
+    "description": "Layered dessert jar (200ml) packed with gooey chocolate sponge, chocolate ganache, and crisp choco balls.",
+    "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "200ml Jar", "price": 140 },
+      { "size": "Set of 2 Jars", "price": 270 }
+    ],
+    "isVeg": true,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.8,
+    "reviewCount": 194
+  },
+  {
+    "id": "prod-19",
+    "name": "Red Velvet Jar Cake",
+    "category": "special_cakes",
+    "description": "Layered 200ml glass jar with red velvet crumb, vanilla cream cheese mousse, and white chocolate drops.",
+    "image": "https://images.unsplash.com/photo-1549488344-1f9b8d2bd1f3?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "200ml Jar", "price": 150 },
+      { "size": "Set of 2 Jars", "price": 290 }
+    ],
+    "isVeg": true,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.8,
+    "reviewCount": 140
+  },
+  {
+    "id": "prod-20",
+    "name": "Dark Chocolate Walnut Brownie",
+    "category": "desserts",
+    "description": "Fudgy, dense brownie baked with roasted crunchy Kashmiri walnuts and 70% dark couverture chocolate.",
+    "image": "https://images.unsplash.com/photo-1607920591413-4ec007e70023?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "1 pc", "price": 85 },
+      { "size": "Box of 4", "price": 320 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": true,
+    "rating": 4.9,
+    "reviewCount": 160
+  },
+  {
+    "id": "prod-21",
+    "name": "French Macarons Box",
+    "category": "desserts",
+    "description": "Handcrafted delicate almond meringue cookies with ganache filling (Blueberry, Chocolate, Pistachio, Salted Caramel).",
+    "image": "https://images.unsplash.com/photo-1570476922354-81227cdbb76c?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "Box of 4", "price": 220 },
+      { "size": "Box of 8", "price": 420 }
+    ],
+    "isVeg": true,
+    "isEgglessAvailable": false,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.8,
+    "reviewCount": 92
+  },
+  {
+    "id": "prod-22",
+    "name": "Classic Chocolate Eclair",
+    "category": "desserts",
+    "description": "Crisp golden choux pastry filled with chilled Madagascar vanilla bean pastry cream, coated in chocolate glaze.",
+    "image": "https://images.unsplash.com/photo-1612203985729-70726954388c?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "1 pc", "price": 95 },
+      { "size": "Pack of 2", "price": 180 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": false,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.7,
+    "reviewCount": 77
+  },
+  {
+    "id": "prod-23",
+    "name": "Crispy Veg Puff",
+    "category": "snacks",
+    "description": "Karnataka bakery favorite: Multi-layered flaky golden puff stuffed with aromatic spiced potatoes, carrots, and sweet green peas.",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "1 pc", "price": 35 },
+      { "size": "Pack of 4", "price": 130 }
+    ],
+    "isVeg": true,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.9,
+    "reviewCount": 380
+  },
+  {
+    "id": "prod-24",
+    "name": "Paneer Tikka Puff",
+    "category": "snacks",
+    "description": "Oven-fresh puff pastry filled with roasted cottage cheese tossed in tandoori spices and capsicum.",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "1 pc", "price": 50 },
+      { "size": "Pack of 4", "price": 190 }
+    ],
+    "isVeg": true,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.8,
+    "reviewCount": 240
+  },
+  {
+    "id": "prod-25",
+    "name": "Rich Plum Cake (Special)",
+    "category": "baked_goods",
+    "description": "Amma Pastries seasonal heritage recipe: Dark fruit cake soaked with rum-infused black currants, candied orange peels, cherries and warming festive spices.",
+    "image": "https://images.unsplash.com/photo-1606890737304-57a1ca8a5b62?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "400g Loaf", "price": 320 },
+      { "size": "800g Box", "price": 620 }
+    ],
+    "isVeg": false,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": true,
+    "rating": 4.9,
+    "reviewCount": 185
+  },
+  {
+    "id": "prod-26",
+    "name": "Dates & Carrot Teatime Cake",
+    "category": "baked_goods",
+    "description": "Wholesome, naturally sweet loaf made with fresh grated farm carrots, juicy Arabian dates, and fragrant cinnamon.",
+    "image": "https://images.unsplash.com/photo-1557308536-ee471ef2c390?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "400g Loaf", "price": 280 }
+    ],
+    "isVeg": true,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.8,
+    "reviewCount": 115
+  },
+  {
+    "id": "prod-27",
+    "name": "Artisanal Butter Cookies Box",
+    "category": "baked_goods",
+    "description": "Traditional melt-in-mouth bakery butter cookies with a subtle cardamom aroma. Crisp, buttery, and perfect with Bangalore filter coffee.",
+    "image": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=800&q=80",
+    "sizes": [
+      { "size": "250g Box", "price": 130 },
+      { "size": "500g Box", "price": 250 }
+    ],
+    "isVeg": true,
+    "isEgglessAvailable": true,
+    "isAvailable": true,
+    "featured": false,
+    "rating": 4.8,
+    "reviewCount": 140
+  }
+]
